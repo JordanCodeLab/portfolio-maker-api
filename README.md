@@ -22,6 +22,7 @@
 - [Contributing](#-contributing)
   - [Fork and clone your repository](#fork-and-clone-your-repository)
   - [Project Structure](#project-structure)
+- [Contributors](#contributors)
 - [License](#license)
 
 ## About
@@ -57,6 +58,12 @@ portfolio-maker-api/
 ├─ package-lock.json      # Automatically generated file containing the exact version of dependencies
 ├─ tsconfig.json          # TypeScript configuration file
 ```
+
+## Contributors
+
+<a href="https://github.com/JordanCodeLab/portfolio-maker-api/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=JordanCodeLab/portfolio-maker-api" />
+</a>
 
 ## LICENSE
 This project is licensed under the MIT License - see the LICENSE file for details.

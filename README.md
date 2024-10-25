@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[<img src="./docs/icon.png" width="144"/>](https://hydralauncher.site)
+<img src="./docs/icon.png" width="144"/>
 
   <h1 align="center">Portfolio Maker API</h1>
 
